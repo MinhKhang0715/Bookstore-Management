@@ -225,7 +225,7 @@ CREATE TABLE IF NOT EXISTS `BookStore`.`order_item` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB; 
-
+--
 
 -- -----------------------------------------------------
 -- Table `BookStore`.`user`
